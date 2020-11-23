@@ -1,0 +1,15 @@
+{
+    "name": "s5-dan-todo-app",
+    "version": "1.0.0",
+    "description": "Esta es una ToDo app",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Daniel Sandoval",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "yargs": "^16.1.1"
+    }
+}
